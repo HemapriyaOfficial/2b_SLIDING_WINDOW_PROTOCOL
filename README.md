@@ -45,3 +45,4 @@ while True:
 ![324156848-afd8da0f-2c7e-4b39-a482-4d3150599f4a](https://github.com/HemapriyaOfficial/2b_SLIDING_WINDOW_PROTOCOL/assets/147114275/9b02870d-d122-46fc-801a-67f3dde0ea80)
 
 ## RESULT
+Thus, python program to perform stop and wait protocol was successfully executed
